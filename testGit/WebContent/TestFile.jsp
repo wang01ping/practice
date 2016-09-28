@@ -10,5 +10,6 @@
 <h1>ddddddd</h1>
 <p>mymymy</p>
 <a>eee</a>
+<label>ggggg</label>
 </body>
 </html>
